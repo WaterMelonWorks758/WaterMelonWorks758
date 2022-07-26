@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WaterMelonWorks758
+- 👋 Hi, I’m @WaterMelonWorks758!
 - 👀 I’m interested in game development, web design/development and programming as a whole.
 - 🌱 I’m currently learning python and C# to a more advanced level. 
 - 📚 I have been making small indie games and programming for about 7 years now.
